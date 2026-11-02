@@ -35,3 +35,8 @@ ABINIT · DFT / LDA · plane-wave calculations · numerical convergence · elect
 ## Read the report
 
 The PDF includes selected **ABINIT input-file examples in its appendix**. Standalone executable simulation files, pseudopotentials and raw output datasets were not supplied with this portfolio; therefore the repository is a documented academic project, not a fully reproducible simulation package.
+
+## Authors and attribution
+
+This report is a collaborative academic work by **Jean-Lou Accarain and Lucas Bogaert**.
+The report contains citations and third-party figures; their attribution remains in the PDF.
