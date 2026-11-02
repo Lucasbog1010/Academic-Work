@@ -55,4 +55,4 @@ Python · pandas · NumPy · scikit-learn · Optuna · Jupyter · classification
 
 ## Publication and reuse
 
-Academic coursework by Lucas Bogaert, UCLouvain, 2026. Before making the repository public, verify that the course permits redistributing the provided competition datasets. The presence of data in this package does not establish redistribution permission. No open-source licence is granted by default.
+Academic coursework by Lucas Bogaert, UCLouvain, 2026.
