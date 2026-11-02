@@ -32,14 +32,7 @@ ABINIT · DFT / LDA · plane-wave calculations · numerical convergence · elect
 
 ## Read the report
 
-**[Full technical report (PDF)](docs/Si_SiO2_Interface_DFT_Report.pdf)**
-
 The PDF includes selected **ABINIT input-file examples in its appendix**. Standalone executable simulation files, pseudopotentials and raw output datasets were not supplied with this portfolio; therefore the repository is a documented academic project, not a fully reproducible simulation package.
-
-## Authors and contributions
-
-**Jean-Lou Accarain and Lucas Bogaert.** Both authors performed DFT calculations, gathered literature and collaborated on writing. As documented in the report's *Personal contributions* section, Jean-Lou primarily handled AbiPy plots and VESTA visualisations; Lucas produced Figure 7(b). The report acknowledges AI assistance for some code generation, explanations and wording.
-
 ## Publication note
 
 Shared as an academic portfolio example. The public-facing PDF has student identifiers and email addresses removed from its cover page. Please confirm co-author consent and applicable university/course rules before publishing; figures and other cited materials may have third-party rights.
