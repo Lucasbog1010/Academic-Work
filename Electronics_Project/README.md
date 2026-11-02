@@ -4,7 +4,7 @@
 **Academic year:** 2024–2025  
 **Technologies:** Analog circuit design, operational amplifiers, Verilog, FPGA (Nexys A7), electronic instrumentation.
 
-[**Read the full report (PDF)**](https://github.com/Lucasbog1010/Academic-Work/tree/main/Electronics_Project/Electronics_Report.pdf)
+[**Read the full report (PDF)**](https://github.com/Lucasbog1010/Academic-Work/tree/main/Electronics_Project/Theremin_and_Clock_Project.pdf)
 
 ### Project Overview
 
