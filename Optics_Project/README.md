@@ -2,7 +2,7 @@
 
 **Academic literature-review project | Physics of Functional Materials (LMAPR2014) | UCLouvain | 2025–2026**
 
-[**Read the full 28-page report (PDF)**](docs/Gemstones_and_Lasers_Report.pdf)
+[**Read the full 28-page report (PDF)**](https://github.com/Lucasbog1010/Academic-Work/tree/main/Optics_Project/Gemstones_and_Lasers_Report.pdf)
 
 ## Project overview
 
