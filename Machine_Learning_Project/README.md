@@ -32,7 +32,6 @@ data/
   A5_2026_test.csv                      # Unlabelled test features (provided)
   A5_2026_train_labels.csv              # Training labels (provided)
 requirements.txt                        # Python packages used in the notebook
-.gitignore                              # Optional Git housekeeping
 ```
 
 ### Missing dataset: training features
