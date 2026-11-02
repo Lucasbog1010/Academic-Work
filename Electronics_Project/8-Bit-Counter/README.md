@@ -48,7 +48,3 @@ The supplied Vivado project includes implementation artifacts and a generated bi
 ## Technologies
 
 **Verilog HDL · AMD/Xilinx Vivado · FPGA design · digital electronics · clock division · binary-to-BCD conversion · seven-segment displays**
-
-## Attribution
-
-The original project contains the **Digilent Nexys A7-100T master constraints file**. Check the applicable Digilent attribution and licensing terms when redistributing third-party board files.
