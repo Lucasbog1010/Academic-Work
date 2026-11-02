@@ -22,11 +22,7 @@ A collaborative technical study of quantum dots, explaining how nanoscale confin
 
 **[Full technical report (PDF)](docs/Quantum_Dots_Report.pdf)**
 
-This is a **research and technical literature-review project**, not an experimental fabrication demonstration or a code repository. No original source code or experimental datasets were provided.
-
-## Authors
-
-**Lucas Bogaert and Lucas Janssens.** The report is a joint academic work; it does not assign individual sections to each author. Its introduction discloses use of ChatGPT and Perplexity for rewriting, rephrasing and paraphrasing portions of the text.
+This is a **research and technical literature-review project**.
 
 ## Publication note
 
