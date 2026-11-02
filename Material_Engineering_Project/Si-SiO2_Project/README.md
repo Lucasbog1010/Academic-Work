@@ -4,7 +4,7 @@
 
 Academic project for **LMAPR2451 — Atomistic and Nanoscopic Simulations**, UCLouvain (2026).
 
-[**Read the full report (PDF)**](https://github.com/Lucasbog1010/Academic-Work/tree/main/Material_Engineering_Project/Nanostructure_Project/Si-SiO2_Report.pdf)
+[**Read the full report (PDF)**](https://github.com/Lucasbog1010/Academic-Work/tree/main/Material_Engineering_Project/Si-SiO2_Project/Si-SiO2_Report.pdf)
 
 ## Overview
 
