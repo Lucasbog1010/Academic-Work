@@ -4,6 +4,8 @@
 
 Academic project for **LMAPR2451 — Atomistic and Nanoscopic Simulations**, UCLouvain (2026).
 
+[**Read the full report (PDF)**](https://github.com/Lucasbog1010/Academic-Work/tree/main/Material_Engineering_Project/Nanostructure_Project/Si-SiO2_Report.pdf)
+
 ## Overview
 
 This project investigates the electronic properties of a silicon/silicon dioxide interface relevant to semiconductor devices. The study models crystalline silicon and idealized β-cristobalite SiO₂ using **ABINIT** and Density Functional Theory (DFT), with particular attention to numerical convergence, structural relaxation, electrostatic potential and band alignment.
