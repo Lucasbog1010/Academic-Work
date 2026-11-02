@@ -4,6 +4,8 @@
 
 Academic report for **LMAPR2015 — Physics of Nanostructures**, UCLouvain (2026).
 
+[**Read the full 28-page report (PDF)**](https://github.com/Lucasbog1010/Academic-Work/tree/main/Material_Engineering_Project/Nanostructure_Project/Nanostructure.pdf)
+
 ## Overview
 
 A collaborative technical study of quantum dots, explaining how nanoscale confinement changes semiconductor electronic and optical properties and examining their potential in photovoltaic devices and quantum photonics.
