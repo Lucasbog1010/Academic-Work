@@ -40,12 +40,5 @@ This is a **written research project**. No original programming source code, exp
 
 ## Authors and attribution
 
-This report is a collaborative academic work by **Jean-Lou Accarain, Lucas Bogaert, Carlo Carlucci, Sebastiano Dalfreddo, and Noa Karemera**. It was prepared for the course *Physics of Functional Materials* (LMAPR2014) at UCLouvain in academic year 2025–2026.
-
-The report contains citations and third-party figures; their attribution remains in the PDF. Please do not reuse those figures separately without checking the original rights.
-
-## Publication note
-
-Before making the repository public, confirm that all co-authors agree to publication and that the report's third-party figures can be redistributed. The PDF's cover also contains student identification numbers; consider removing them from a public copy with the group's agreement.
-
-No open-source or Creative Commons license is applied to the report by this repository.
+This report is a collaborative academic work by **Jean-Lou Accarain, Lucas Bogaert, Carlo Carlucci, Sebastiano Dalfreddo, and Noa Karemera**.
+The report contains citations and third-party figures; their attribution remains in the PDF.
