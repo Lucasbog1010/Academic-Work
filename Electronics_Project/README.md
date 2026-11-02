@@ -33,3 +33,9 @@ A digital subsystem was developed in Verilog and implemented on a Nexys A7 FPGA 
 ### Skills Developed
 
 Analog circuit design, signal processing, operational amplifier applications, transistor-based power amplification, Verilog programming, FPGA implementation, circuit testing and experimental validation.
+
+## Authors and attribution
+
+This report is a collaborative academic work by **Lucas Bogaert and Charlotte Braggart**.
+The report contains citations and third-party figures; their attribution remains in the PDF.
+
