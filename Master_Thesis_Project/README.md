@@ -2,6 +2,8 @@
 
 **Master's thesis | UCLouvain | 2025–2026**
 
+[**Read the full report (PDF)**](https://github.com/Lucasbog1010/Academic-Work/tree/main/Master_Thesis_Project/Master_Thesis_Lucas_Bogaert_2026.pdf)
+
 ## Project overview
 
 This repository accompanies the Master's dissertation **“Study of the performance of the first silicon modules of the future CMS tracker for HL-LHC.”** The research investigates **common-mode noise (CMN)** in silicon detector modules developed for the CMS Outer Tracker upgrade at CERN's High-Luminosity LHC.
