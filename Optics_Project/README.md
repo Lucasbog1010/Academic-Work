@@ -26,18 +26,6 @@ The report addresses three questions:
 
 The work links **materials composition and microstructure** to **functional performance**, and considers how manufacturing processes influence the quality of optical crystals. It is particularly relevant to materials engineering, photonics, advanced manufacturing, and technical research roles.
 
-## Repository contents
-
-```text
-Gemstones-and-Solid-State-Lasers-Portfolio/
-├── README.md
-├── docs/
-│   └── Gemstones_and_Lasers_Report.pdf
-└── CITATION.cff
-```
-
-This is a **written research project**. No original programming source code, experimental datasets, or laboratory measurements were supplied for this repository.
-
 ## Authors and attribution
 
 This report is a collaborative academic work by **Jean-Lou Accarain, Lucas Bogaert, Carlo Carlucci, Sebastiano Dalfreddo, and Noa Karemera**.
