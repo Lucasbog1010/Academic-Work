@@ -1,5 +1,7 @@
 # Machine Learning Classification | Model Selection and Imbalanced Data
 
+[**Read the full report (PDF)**](https://github.com/Lucasbog1010/Academic-Work/tree/main/Machine_Learning_Project/Machine_Learning_Report.pdf)
+
 **Academic project — LINFO2262, UCLouvain (2026)**
 
 This repository presents a machine-learning competition project focused on **binary classification with imbalanced classes** (approximately 90% negative and 10% positive). It contains the analysis notebook, project report, and the supplied datasets that are available for publication.
