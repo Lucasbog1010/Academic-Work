@@ -41,10 +41,6 @@ A second `clock_divider` produces a ~10 kHz refresh clock for the seven-segment 
 
 The included `.xpr` is retained as a reference to the original project, but it may not open directly after relocating the sources. Creating a fresh project using the steps above is the most portable approach.
 
-## Verification status
-
-The supplied Vivado project includes implementation artifacts and a generated bitstream. **No standalone simulation testbench or waveform screenshots were present in the uploaded files**, and this portfolio has not independently rerun Vivado or verified the design on physical hardware.
-
 ## Technologies
 
 **Verilog HDL · AMD/Xilinx Vivado · FPGA design · digital electronics · clock division · binary-to-BCD conversion · seven-segment displays**
