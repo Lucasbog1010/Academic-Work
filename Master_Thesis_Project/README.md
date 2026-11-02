@@ -49,8 +49,4 @@ No dependency versions have been verified for a fresh installation.
 **Academic year:** 2025–2026  
 **Supervisor:** Christophe Delaere
 
-This repository contains thesis-related academic work. The dissertation cites background literature and includes figures from external sources; their original attribution remains in the PDF. Permission to publish the thesis and notebooks does not automatically establish a separate licence for third-party figures or datasets.
-
-## Publication note
-
-Before uploading publicly, review notebook cell outputs, embedded figures, file paths, module identifiers, and any dataset-derived content to confirm the publication authorisation covers them. Do not upload raw experimental data unless specifically authorised.
+This repository contains thesis-related academic work. The dissertation cites background literature and includes figures from external sources; their original attribution remains in the PDF. 
