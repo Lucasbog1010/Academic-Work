@@ -19,3 +19,8 @@ A collaborative technical study of quantum dots, explaining how nanoscale confin
 - Quantum-dot heterojunction and intermediate-band solar-cell concepts.
 - Single-photon sources, optical selection rules, multiexciton effects, Auger recombination and blinking.
 - Practical limitations, including nonradiative losses, stability and environmental considerations.
+
+## Authors and attribution
+
+This report is a collaborative academic work by **Lucas Bogaert and Lucas Janssens**.
+The report contains citations and third-party figures; their attribution remains in the PDF.
