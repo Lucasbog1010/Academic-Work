@@ -15,12 +15,8 @@ This repository brings together selected projects from my studies. They illustra
 
 ## How to navigate
 
-Each project folder contains its own `README.md` with a more detailed description of the objective, methods, files, and relevant results. Depending on the project, you will also find source code, Jupyter notebooks, technical reports, or supporting documentation.
+Each project folder contains its own `README.md` with a more detailed description of the objective, methods, files, and relevant results. Depending on the project, you will also find source code, Jupyter notebooks or technical reports.
 
 > **Note on reproducibility:** Some projects rely on specialised hardware, software environments, or experimental datasets that are not included here. Consult each project's README for limitations and setup details.
-
-## Professional interests
-
-I am interested in applying my physics background and technical skills to **engineering and industrial challenges**, particularly in **energy, materials engineering, manufacturing, electronics, instrumentation, and testing and validation**.
 
 *Thank you for exploring my work.*
