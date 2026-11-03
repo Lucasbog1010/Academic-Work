@@ -10,7 +10,7 @@ This repository brings together selected projects from my studies. They illustra
 | **Electronics** | [Theremin and 8-Bit FPGA Counter](https://github.com/Lucasbog1010/Academic-Work/tree/main/Electronics_Project) | Analog circuit manipulation and simulation using LTSpice. Digital design in **Verilog**, FPGA implementation with **Vivado**, and seven-segment display control. |
 | **Machine Learning** | [Binary Classification](https://github.com/Lucasbog1010/Academic-Work/tree/main/Machine_Learning_Project) | Data analysis, model comparison, **ExtraTrees**, **Optuna** hyperparameter tuning, and cross-validation for imbalanced data. |
 | **Master's Thesis** | [CMS Silicon Detector Noise Analysis](https://github.com/Lucasbog1010/Academic-Work/tree/main/Master_Thesis_Project) | Experimental detector characterisation, noise analysis, **Python**, **ROOT/PyROOT**, and statistical modelling. |
-| **Materials Engineering** | [Materials Engineering Projects](Materials-Engineering-GitHub-Portfolios/) | Computational study of a **Si/SiO₂ interface** and a literature review of **nanomaterials and photovoltaics**. |
+| **Materials Engineering** | [Materials Engineering Projects](https://github.com/Lucasbog1010/Academic-Work/tree/main/Material_Engineering_Project)| Computational study of a **Si/SiO₂ interface** and a literature review of **nanomaterials and photovoltaics**. |
 | **Optics** | [Gemstones and Solid-State Lasers](Gemstones-and-Solid-State-Lasers-Portfolio/) | Optical and electronic properties of functional crystals, laser principles and materials used in solid-state lasers. |
 
 ## How to navigate
