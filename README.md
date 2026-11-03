@@ -1,7 +1,6 @@
 # Academic Projects Portfolio | Physics & Engineering
 
-Welcome to my academic project portfolio. I completed a Bachelor's and a Master's degree in Physics at **UCLouvain**, developing a foundation in physical sciences alongside practical experience in electronics, programming, experimental measurements, data analysis, and materials science.
-
+Welcome to my academic project portfolio.
 This repository brings together selected projects from my studies. They illustrate how I apply scientific reasoning and technical tools to understand systems, analyse results, and address engineering problems.
 
 ## Explore the projects
