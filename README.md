@@ -7,11 +7,11 @@ This repository brings together selected projects from my studies. They illustra
 
 | Area | Project | What it demonstrates |
 | --- | --- | --- |
-| **Electronics** | [8-Bit FPGA Counter](8-Bit-Counter-Verilog-Vivado/) | Analog circuit manipulation and simulation using LTSpice. Digital design in **Verilog**, FPGA implementation with **Vivado**, and seven-segment display control on a **Nexys A7-100T** board. |
+| **Electronics** | [Theremin and 8-Bit FPGA Counter](8-Bit-Counter-Verilog-Vivado/) | Analog circuit manipulation and simulation using LTSpice. Digital design in **Verilog**, FPGA implementation with **Vivado**, and seven-segment display control. |
 | **Machine Learning** | [Binary Classification](Machine-Learning-Classification-Portfolio/) | Data analysis, model comparison, **ExtraTrees**, **Optuna** hyperparameter tuning, and cross-validation for imbalanced data. |
-| **Master's Thesis** | [CMS Silicon Detector Noise Analysis](CMS-Silicon-Detector-Noise-Analysis/) | Experimental detector characterisation, common-mode noise analysis, **Python**, **ROOT/PyROOT**, and statistical modelling. |
-| **Materials Engineering** | [Materials Engineering Projects](Materials-Engineering-GitHub-Portfolios/) | Computational study of a **Si/SiO₂ interface** and a literature review of **quantum dots, nanomaterials, and photovoltaics**. |
-| **Optics & Lasers** | [Gemstones and Solid-State Lasers](Gemstones-and-Solid-State-Lasers-Portfolio/) | Optical and electronic properties of functional crystals, laser principles, and materials used in solid-state lasers. |
+| **Master's Thesis** | [CMS Silicon Detector Noise Analysis](CMS-Silicon-Detector-Noise-Analysis/) | Experimental detector characterisation, noise analysis, **Python**, **ROOT/PyROOT**, and statistical modelling. |
+| **Materials Engineering** | [Materials Engineering Projects](Materials-Engineering-GitHub-Portfolios/) | Computational study of a **Si/SiO₂ interface** and a literature review of **nanomaterials and photovoltaics**. |
+| **Optics & Lasers** | [Gemstones and Solid-State Lasers](Gemstones-and-Solid-State-Lasers-Portfolio/) | Optical and electronic properties of functional crystals, laser principles and materials used in solid-state lasers. |
 
 ## How to navigate
 
