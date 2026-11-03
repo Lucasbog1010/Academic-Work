@@ -7,7 +7,7 @@ This repository brings together selected projects from my studies. They illustra
 
 | Area | Project | What it demonstrates |
 | --- | --- | --- |
-| **Electronics** | [Theremin and 8-Bit FPGA Counter]([8-Bit-Counter-Verilog-Vivado/](https://github.com/Lucasbog1010/Academic-Work/tree/main/Electronics_Project)) | Analog circuit manipulation and simulation using LTSpice. Digital design in **Verilog**, FPGA implementation with **Vivado**, and seven-segment display control. |
+| **Electronics** | [Theremin and 8-Bit FPGA Counter](https://github.com/Lucasbog1010/Academic-Work/tree/main/Electronics_Project) | Analog circuit manipulation and simulation using LTSpice. Digital design in **Verilog**, FPGA implementation with **Vivado**, and seven-segment display control. |
 | **Machine Learning** | [Binary Classification](Machine-Learning-Classification-Portfolio/) | Data analysis, model comparison, **ExtraTrees**, **Optuna** hyperparameter tuning, and cross-validation for imbalanced data. |
 | **Master's Thesis** | [CMS Silicon Detector Noise Analysis](CMS-Silicon-Detector-Noise-Analysis/) | Experimental detector characterisation, noise analysis, **Python**, **ROOT/PyROOT**, and statistical modelling. |
 | **Materials Engineering** | [Materials Engineering Projects](Materials-Engineering-GitHub-Portfolios/) | Computational study of a **Si/SiO₂ interface** and a literature review of **nanomaterials and photovoltaics**. |
