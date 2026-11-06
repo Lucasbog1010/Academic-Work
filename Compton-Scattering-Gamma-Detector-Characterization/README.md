@@ -4,8 +4,6 @@
 
 A laboratory project exploring **gamma-ray detection, scintillation detector calibration, and Compton scattering**. The work combines a practical nuclear-instrumentation setup with spectroscopic measurements, detector-performance evaluation, and comparison of measured scattering data with theoretical predictions.
 
-**Authors of the report:** L. Bogaert, M. Bouhalbane, and R. Dartois.
-
 📄 **[Read the full report (PDF)](Compton_scattering.pdf)**
 
 ## Project overview
