@@ -12,7 +12,7 @@ This repository brings together selected projects from my studies. They illustra
 | **Master's Thesis** | [CMS Silicon Detector Noise Analysis](https://github.com/Lucasbog1010/Academic-Work/tree/main/Master_Thesis_Project) | Experimental detector characterisation, noise analysis, **Python**, **ROOT/PyROOT**, and statistical modelling. |
 | **Materials Engineering** | [Materials Engineering Projects](https://github.com/Lucasbog1010/Academic-Work/tree/main/Material_Engineering_Project)| Computational study of a **Si/SiO₂ interface** and a literature review of **nanomaterials and photovoltaics**. |
 | **Optics** | [Gemstones and Solid-State Lasers](https://github.com/Lucasbog1010/Academic-Work/tree/main/Optics_Project) | Optical and electronic properties of functional crystals, laser principles and materials used in solid-state lasers. |
-| **Nuclear** | [Radiological characterisation](https://github.com/Lucasbog1010/Academic-Work/tree/main/Nuclear_Project) | Characterisation and calibration of a NaI(Tl) scintillation detector for a Compton scattering experiment. |
+| **Nuclear** | [Compton-Scattering-Gamma-Detector-Characterization](https://github.com/Lucasbog1010/Academic-Work/tree/main/Nuclear_Project) | Characterisation and calibration of a NaI(Tl) scintillation detector for a Compton scattering experiment. |
 
 ## How to navigate
 
