@@ -6,7 +6,7 @@ A laboratory project exploring **gamma-ray detection, scintillation detector cal
 
 **Authors of the report:** L. Bogaert, M. Bouhalbane, and R. Dartois.
 
-📄 **[Read the complete laboratory report](Compton_scattering.pdf)**
+📄 **[Read the full report (PDF)](Compton_scattering.pdf)**
 
 ## Project overview
 
