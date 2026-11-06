@@ -49,37 +49,6 @@ For the scattering measurements, a **Cs-137 source** illuminated an **aluminium 
 - Used the energy–angle relationship to estimate the **electron rest energy**.
 - Studied the **angular differential scattering cross section** and compared results with the **Klein–Nishina model**.
 
-## Selected findings
-
-- Gamma-ray energy peaks from several reference sources enabled energy calibration of the NaI(Tl) detector.
-- The measured energy of scattered photons **decreased with increasing scattering angle**, consistent with Compton-scattering theory.
-- The experimentally derived electron rest energy was **495 ± 11 keV**, compared with the accepted value of approximately **511 keV** (about **3% difference**).
-- The measured differential cross-section trend broadly followed the Klein–Nishina prediction, while the report discusses discrepancies and the limitations of the efficiency correction.
-
-The report also notes that some fits yielded unexpectedly large reduced chi-square values, pointing to possible uncertainty-estimation or fitting-method limitations. These caveats matter when interpreting the results.
-
-## Skills demonstrated
-
-- Gamma-ray spectroscopy and **radiation detection**
-- **Scintillation detectors**, photomultipliers, and nuclear signal-processing electronics
-- **Detector calibration**, energy resolution, and efficiency characterization
-- Experimental setup, acquisition, and measurement planning
-- **Spectrum/peak fitting**, statistical analysis, and uncertainty assessment
-- Physics-based numerical analysis and experimental–theoretical comparison
-- Collaborative laboratory work and technical scientific reporting
-
-## Repository contents
-
-```text
-Compton-Scattering-Gamma-Detector-Characterization/
-├── README.md                 # Project introduction and technical summary
-└── Compton_scattering.pdf    # Full laboratory report (June 2025)
-```
-
-## Notes
-
-This repository contains the **report** for an academic group laboratory project. It does **not** currently include raw measurement data or analysis scripts. Experimental details, plots, equations, and discussion of uncertainties can be found in the PDF.
-
 ## Citation
 
 Bogaert, L., Bouhalbane, M., & Dartois, R. (2025). *Compton scattering*. Laboratory report, *Ionizing Radiation Detection and Nuclear Instrumentation (LPHYS2102)*, UCLouvain.
